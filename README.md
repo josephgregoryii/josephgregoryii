@@ -3,9 +3,12 @@ ___
 My name is Joe Gregory. I am a software engineer at [New Relic](https://github.com/newrelic).
 I work on the Developer Enablement team which aims to connect developers to the inner core of the data-driven
 technology that New Relic has to offer.
+<!--
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jgregoryii)](https://github.com/anuraghazra/github-readme-stats)
+-->
 
 ## Repository Languages
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=josephgregoryii&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=josephgregoryii&theme=dracula)](https://github.com/josephgregoryii/github-readme-stats)
 
 ## Contributing Languages
 <div style="height:50%;width:100%;">
