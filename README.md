@@ -4,9 +4,15 @@ My name is Joe Gregory. I am a software engineer at [New Relic](https://github.c
 I work on the Developer Enablement team which aims to connect developers to the inner core of the data-driven
 technology that New Relic has to offer.
 
-<!--
-<a href="https://wakatime.com"><img src="https://wakatime.com/share/@19a97aed-d84a-4186-9b94-ef527520b94f/21bfad01-ce14-418d-988a-69545fc7ba76.png" /></a>
+## Repository Languages
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=josephgregoryii&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 
+## Contributing Languages
+<div style="height:50%;width:100%;">
+  <a href="https://wakatime.com"><img src="https://wakatime.com/share/@19a97aed-d84a-4186-9b94-ef527520b94f/21bfad01-ce14-418d-988a-69545fc7ba76.png" />
+  </a>
+  </div>
+<!--
 **josephgregoryii/josephgregoryii** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
