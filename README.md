@@ -8,7 +8,7 @@ technology that New Relic has to offer.
 -->
 
 ## Repository Languages
-[![Joe's Languages in Repositories](https://github-readme-stats.vercel.app/api/top-langs/?username=josephgregoryii&theme=dracula&langs_count=10)](https://github.com/josephgregoryii)
+![image](https://github-readme-stats.vercel.app/api/top-langs/?username=josephgregoryii&langs_count=8&hide_border=true&theme=dracula&layout=compact)
 
 ## Contributing Languages
 <div style="height:50%;width:100%;">
